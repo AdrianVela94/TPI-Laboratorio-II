@@ -58,3 +58,13 @@ C:\Users\vela_\Downloads\SistAcademApp\SistAcademApp\obj\Debug\InspeccionVehicul
 C:\Users\vela_\Downloads\SistAcademApp\SistAcademApp\obj\Debug\InspeccionVehicularApp.csproj.CoreCompileInputs.cache
 C:\Users\vela_\Downloads\SistAcademApp\SistAcademApp\obj\Debug\WindowsFormsApp1.exe
 C:\Users\vela_\Downloads\SistAcademApp\SistAcademApp\obj\Debug\WindowsFormsApp1.pdb
+F:\Repositorios Git\TPI-Laboratorio-II\bin\Debug\WindowsFormsApp1.exe.config
+F:\Repositorios Git\TPI-Laboratorio-II\bin\Debug\WindowsFormsApp1.exe
+F:\Repositorios Git\TPI-Laboratorio-II\bin\Debug\WindowsFormsApp1.pdb
+F:\Repositorios Git\TPI-Laboratorio-II\obj\Debug\InspeccionVehicularApp.csproj.AssemblyReference.cache
+F:\Repositorios Git\TPI-Laboratorio-II\obj\Debug\WindowsFormsApp1.FrmSistAcadem.resources
+F:\Repositorios Git\TPI-Laboratorio-II\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\Repositorios Git\TPI-Laboratorio-II\obj\Debug\InspeccionVehicularApp.csproj.GenerateResource.cache
+F:\Repositorios Git\TPI-Laboratorio-II\obj\Debug\InspeccionVehicularApp.csproj.CoreCompileInputs.cache
+F:\Repositorios Git\TPI-Laboratorio-II\obj\Debug\WindowsFormsApp1.exe
+F:\Repositorios Git\TPI-Laboratorio-II\obj\Debug\WindowsFormsApp1.pdb
